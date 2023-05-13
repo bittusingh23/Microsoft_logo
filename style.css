@@ -1,0 +1,33 @@
+.face {
+  background-color: yellow;
+  height: 400px;
+  width: 400px;
+  border-style: solid;
+  border-color: yellow;
+  border-radius: 400px;
+  margin-left: 450px;
+  margin-top: 70px;
+}
+.left.eye {
+  background-color: black;
+  height: 80px;
+  width: 80px;
+  border-style: solid;
+  border-radius: 60px;
+  margin-left: 80px;
+  margin-top: 80px;
+}
+.right.eye {
+  background-color: black;
+  height: 80px;
+  width: 80px;
+  border-style: solid;
+  border-radius: 60px;
+  margin-left: 235px;
+  margin-top: -80px;
+}
+.mouth {
+  transform: rotate(45deg);
+  margin-left: 40px;
+  margin-top: -10px;
+}
